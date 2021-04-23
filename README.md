@@ -17,9 +17,6 @@ Project is created with:
 * Laravel framework
 * MySQL database
 
-## Requirements
-The application is designed for Android 6.0 (API 23 Marshmallow) version or higher.
-
 ## Features
 * User registration and login
 * CRUD for doctors
